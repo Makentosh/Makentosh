@@ -6,13 +6,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue)
-![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=Vuex)
+![Material-ui](https://img.shields.io/badge/-MaterialUi-090909?style=for-the-badge&logo=material-ui)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue)
+![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=vuex)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![Material-ui](https://img.shields.io/badge/-MaterialUi-090909?style=for-the-badge&logo=material-ui)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop)
 
 
-### Mail me: zki_007@ukr.net
-### Telegram: @VasylBatig
+### ✉️ Mail me: zki_007@ukr.net
+### 📲 Telegram, Instagram: @VasylBatig
