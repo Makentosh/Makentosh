@@ -3,7 +3,13 @@
 ## I`m *Frontend* developer from Lviv.
 
 ### Languages & Technologies
-![JavaScripti](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.to/badge-JavaScript-090909?style-for-the-badge&logo=JavaScript)
 
 
 ### Mail me: zki_007@ukr.net
