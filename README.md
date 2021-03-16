@@ -14,8 +14,9 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-sass/scss-090909?style=for-the-badge&logo=sass)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=AdobePhotoshop)
+![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
 
 
 ## ✉️ Mail me: zki_007@ukr.net
