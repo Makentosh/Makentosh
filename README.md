@@ -10,7 +10,6 @@
 ![Material-ui](https://img.shields.io/badge/-MaterialUi-090909?style=for-the-badge&logo=material-ui)
 ![Vue.js](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=Vuetify)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
