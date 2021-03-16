@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Vasyl Batig**!
 
-## I`m *Front-end* developer from Lviv.
+## I`m *Front-end developer* from Lviv.
 
 ## Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
