@@ -19,6 +19,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makentosh&show_icons=true&locale=en" alt="makentosh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makentosh&" alt="makentosh" /></p>
 
 ### ✉️ Mail me: zki_007@ukr.net
 ### 📲 Telegram, Instagram: @VasylBatig
