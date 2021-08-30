@@ -8,6 +8,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Material-ui](https://img.shields.io/badge/-MaterialUi-090909?style=for-the-badge&logo=material-ui)
+![Antd-design](https://img.shields.io/badge/-AntDesign-090909?style=for-the-badge&logo=antdesign)
 ![Vue.js](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=Vue.js)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
