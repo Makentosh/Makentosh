@@ -18,6 +18,7 @@
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass)
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=less)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
 
