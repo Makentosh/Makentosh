@@ -7,7 +7,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Material-ui](https://img.shields.io/badge/-MaterialUi-090909?style=for-the-badge&logo=material-ui)
+![Redux](https://img.shields.io/badge/-Redux_toolkit-090909?style=for-the-badge&logo=Redux)
+![Material-ui](https://img.shields.io/badge/-Material_Ui-090909?style=for-the-badge&logo=material-ui)
 ![Antd-design](https://img.shields.io/badge/-AntDesign-090909?style=for-the-badge&logo=antdesign)
 ![i18next](https://img.shields.io/badge/-i18next-090909?style=for-the-badge&logo=i18next)
 ![Vue.js](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
@@ -20,8 +21,10 @@
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=less)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira)
+![Postman](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
+![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" /></p>
 
