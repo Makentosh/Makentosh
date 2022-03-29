@@ -1,4 +1,4 @@
-# 👋 Hi, my name is **Vasyl Batig**!
+# 👋 Hi, my name is **Vasyl Batih**!
 
 ## I`m *Front-end developer* from Lviv.
 
