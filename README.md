@@ -33,4 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makentosh&" alt="makentosh" /></p>
 
 ### ✉️ Mail me: zki_007@ukr.net
-### 📲 Telegram, Instagram: @VasylBatig
+### 📲 Telegram, Instagram: @VasylBatih
