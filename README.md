@@ -20,11 +20,11 @@
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass)
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=less)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira)
 ![Postman](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
-![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" /></p>
 
