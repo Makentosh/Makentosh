@@ -43,21 +43,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=makentosh)](https://git.io/streak-stats)
 
-<h3> 📝 Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vasyl-batih-828268159" target="blank" style="text-decoration:none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasyl-batih-828268159" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/batigvasyl" target="blank" style="text-decoration:none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="batigvasyl" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/vasylbatih" target="blank" style="text-decoration:none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasylbatih" height="30" width="40" />
-  </a>
-</p>
-
-### ✉️ Mail me: zki_007@ukr.net
-### 📲 Telegram: @VasylBatih
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BatigVasyl)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasylbatig)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasyl-batih-828268159)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziki_007@ukr.net) 
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
