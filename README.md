@@ -1,14 +1,14 @@
-# 👋 Hi, my name is **Vasyl Batih**!
-
-## I`m *Front-end developer* from Lviv.
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/makentosh/count.svg)-->
 ![Profile views](https://komarev.com/ghpvc/?username=makentosh)
 
+<h1 >👋 Hi, my name is <i>Vasyl Batih</i>!</h1>
+<h2>I`m <i>Front-end developer</i> from Ukraine, Lviv.</h2>
+
 ## 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=makentosh)](https://github.com/makentosh/github-profile-trophy)
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -35,16 +35,29 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div>
   <img align="top" src="https://readme-stats.clckblog.space/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" />
-  <img align="top" src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en" alt="makentosh" />
+  <img  src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en" alt="makentosh" />
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=makentosh)](https://git.io/streak-stats)
 
-### ✉️ Mail me: zki_007@ukr.net
-### 📲 Telegram, Instagram: @VasylBatih
+<h3> 📝 Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/vasyl-batih-828268159" target="blank" style="text-decoration:none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasyl-batih-828268159" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/batigvasyl" target="blank" style="text-decoration:none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="batigvasyl" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/vasylbatih" target="blank" style="text-decoration:none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasylbatih" height="30" width="40" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+### ✉️ Mail me: zki_007@ukr.net
+### 📲 Telegram: @VasylBatih
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
