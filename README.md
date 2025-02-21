@@ -5,9 +5,10 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/makentosh/count.svg)-->
 ![Profile views](https://komarev.com/ghpvc/?username=makentosh)
 
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=makentosh)](https://github.com/makentosh/github-profile-trophy)
 
-### Languages & Technologies
+### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -34,6 +35,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
 
+### 📊 GitHub Stats:
 <div>
   <img align="top" src="https://readme-stats.clckblog.space/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" />
   <img align="top" src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en" alt="makentosh" />
@@ -43,3 +45,7 @@
 
 ### ✉️ Mail me: zki_007@ukr.net
 ### 📲 Telegram, Instagram: @VasylBatih
+
+
+### ✍️ Random Dev Quote
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt=""></p>
