@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats:
 <div>
   <img align="top" src="https://readme-stats.clckblog.space/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" />
-  <img  src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en" alt="makentosh" />
+  <img  src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="makentosh" />
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=makentosh)](https://git.io/streak-stats)
