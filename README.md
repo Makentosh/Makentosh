@@ -2,6 +2,11 @@
 
 ## I`m *Front-end developer* from Lviv.
 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/makentosh/count.svg)-->
+![Profile views](https://komarev.com/ghpvc/?username=makentosh)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=makentosh)](https://github.com/makentosh/github-profile-trophy)
+
 ### Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
@@ -29,11 +34,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
 
-<p><img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" /></p>
+<div>
+  <img align="top" src="https://readme-stats.clckblog.space/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" />
+  <img align="top" src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en" alt="makentosh" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en" alt="makentosh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makentosh&" alt="makentosh" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=makentosh)](https://git.io/streak-stats)
 
 ### ✉️ Mail me: zki_007@ukr.net
 ### 📲 Telegram, Instagram: @VasylBatih
