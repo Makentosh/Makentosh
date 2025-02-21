@@ -46,6 +46,5 @@
 ### ✉️ Mail me: zki_007@ukr.net
 ### 📲 Telegram, Instagram: @VasylBatih
 
-
 ### ✍️ Random Dev Quote
-<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt=""></p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
