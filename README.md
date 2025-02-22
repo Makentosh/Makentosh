@@ -1,5 +1,5 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/makentosh/count.svg)-->
-![Profile views](https://komarev.com/ghpvc/?username=makentosh)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=makentosh) -->
 
 <h1 >👋 Hi, my name is <i>Vasyl Batih</i>!</h1>
 <h2>I`m <i>Front-end developer</i> from Ukraine, Lviv.</h2>
@@ -36,12 +36,23 @@
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe-photoshop)
 
 ## 📊 GitHub Stats:
-<div>
-  <img align="top" src="https://readme-stats.clckblog.space/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact" alt="makentosh" />
-  <img  src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="makentosh" />
-</div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=makentosh)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://readme-stats.clckblog.space/api/top-langs?username=makentosh&show_icons=true&locale=en&layout=compact&hide_border=true" alt="makentosh" />
+    </td>
+    <td>
+      <img src="https://readme-stats.clckblog.space/api?username=makentosh&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide_border=true" alt="makentosh" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=makentosh&&hide_border=true&background=F6F8FA" alt="GitHub Streak">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BatigVasyl)
@@ -51,3 +62,9 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<p align="center">
+  <a href="https://u8views.com/github/Makentosh">
+    <img src="https://u8views.com/api/v1/github/profiles/35669171/views/day-week-month-total-count.svg">
+  </a>
+</p>
