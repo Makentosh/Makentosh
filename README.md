@@ -148,14 +148,19 @@
 
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Just+Do+It+!" alt="Typing SVG" /></a>
+<p>
+ <a href="/">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" height="160" alt="random dev quote"/>
+ </a>
 </p>
 
+<p>
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Just+Do+It+!" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="center">
+<p>
   <a href="https://u8views.com/github/Makentosh">
     <img src="https://u8views.com/api/v1/github/profiles/35669171/views/day-week-month-total-count.svg">
   </a>
