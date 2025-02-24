@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116.25" height="28" role="img"
+     aria-label="WEBSOCKET: ">
+    <title>WEBSOCKET:</title>
+    <g shape-rendering="crispEdges">
+        <rect width="116.25" height="28" fill="black"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+       text-rendering="geometricPrecision" font-size="100">
+        <image x="9" y="7" width="14" height="14"
+               xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iOTAwLjAwMDAwMHB0IiBoZWlnaHQ9IjY3OS4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDkwMC4wMDAwMDAgNjc5LjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNjc5LjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTU1NSA2MjMwIGw1NjAgLTU2MCAxMTU1IDAgMTE1NSAwIDQwNyAtNDA3IDQwOCAtNDA4IC01OTcgLTU5NyAtNTk4Ci01OTggLTQwNyA0MDcgLTQwOCA0MDggMCAzMTcgMCAzMTggLTU2MCAwIC01NjAgMCAwIC01NDcgMCAtNTQ4IDk2NyAtOTY3IDk2OAotOTY4IC0zOTMgLTM5MyAtMzkyIC0zOTIgNjMzIC02MzMgNjMyIC02MzIgMjc0MCAxIDI3NDAgMCAtNTYwIDU1NCAtNTYwIDU1NQotMTk0NSAwIC0xOTQ1IDAgLTQ2OCA0NjggLTQ2NyA0NjcgMTk1IDE5NSAxOTQgMTk0IDIyIC0yMCBjMTMgLTEwIDE4NSAtMTgyCjM4MyAtMzgyIGwzNjAgLTM2MiA3OTUgMCA3OTYgMCAtNzgwIDc4MCAtNzgwIDc4MCAyMDAgMjAwIDIwMCAyMDAgNzc3IC03NzcKNzc4IC03NzggMCA3OTAgMCA3OTAgLTM4MiAzODIgLTM4MyAzODMgMTk3IDE5NyAxOTcgMTk4IC05NzAgOTczIC05NjkgOTcyCi0xOTQ4IDAgLTE5NDcgMCA1NjAgLTU2MHoiLz4KPHBhdGggZD0iTTYyMjcgNTI1MiBjLTIxMyAtMjEzIC0zODcgLTM5MiAtMzg3IC0zOTcgMCAtNSAyMDggLTIxOCA0NjMgLTQ3MwpsNDYyIC00NjIgMCAtMTEwOCAwIC0xMTA3IDU1OCAtMyA1NTcgLTIgMCAxMzQyIDAgMTM0MyAtNjI2IDYyOCBjLTM0NCAzNDUKLTYyOCA2MjcgLTYzMiA2MjcgLTQgMCAtMTgxIC0xNzQgLTM5NSAtMzg4eiIvPgo8L2c+Cjwvc3ZnPgo="/>
+        <text transform="scale(.1)" x="666.25" y="175" textLength="752.5" fill="#fff" font-weight="bold">WEBSOCKET</text>
+    </g>
+</svg>

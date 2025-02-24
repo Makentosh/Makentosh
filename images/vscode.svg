@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.5" height="28" role="img"
+     aria-label="VSCODE: ">
+    <title>VSCODE:</title>
+    <g shape-rendering="crispEdges">
+        <rect width="90.5" height="28" fill="#007ACC"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+       text-rendering="geometricPrecision" font-size="100">
+        <image x="9" y="7" width="14" height="14"
+               xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiNmZmZmZmYiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0zMC44NjUgMy40NDhsLTYuNTgzLTMuMTY3Yy0wLjc2Ni0wLjM3LTEuNjc3LTAuMjE0LTIuMjc2IDAuMzg1bC0xMi42MDkgMTEuNTA1LTUuNDk1LTQuMTY3Yy0wLjUxLTAuMzkxLTEuMjI5LTAuMzU5LTEuNzAzIDAuMDczbC0xLjc2IDEuNjA0Yy0wLjU4MyAwLjUyNi0wLjU4MyAxLjQ0My0wLjAwNSAxLjk2OWw0Ljc2NiA0LjM0OS00Ljc2NiA0LjM0OWMtMC41NzggMC41MjYtMC41NzggMS40NDMgMC4wMDUgMS45NjlsMS43NiAxLjYwNGMwLjQ3OSAwLjQzMiAxLjE5MyAwLjQ2NCAxLjcwMyAwLjA3M2w1LjQ5NS00LjE3MiAxMi42MTUgMTEuNTFjMC41OTQgMC41OTkgMS41MDUgMC43NTUgMi4yNzEgMC4zODVsNi41ODktMy4xNzJjMC42OTMtMC4zMzMgMS4xMy0xLjAzMSAxLjEzLTEuODAydi0yMS40OTVjMC0wLjc2Ni0wLjQ0My0xLjQ2OS0xLjEzNS0xLjgwMnpNMjQuMDA1IDIzLjI2NmwtOS41NzMtNy4yNjYgOS41NzMtNy4yNjZ6Ii8+Cjwvc3ZnPgo="/>
+        <text transform="scale(.1)" x="537.5" y="175" textLength="495" fill="#fff" font-weight="bold">VSCODE</text>
+    </g>
+</svg>

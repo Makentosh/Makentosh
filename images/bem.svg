@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="163.75" height="28" role="img"
+     aria-label="BEM METHODOLOGY: GAG">
+    <title>BEM METHODOLOGY: GAG</title>
+    <g shape-rendering="crispEdges">
+        <rect width="163.75" height="28" fill="#17a1e6e6"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+       text-rendering="geometricPrecision" font-size="100">
+        <image x="9" y="7" width="14" height="14"
+               xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyMDcwIiB2aWV3Qm94PSIwIDAgMjU2IDIxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij48cGF0aCBkPSJNMCAzMi42OTJoNTkuODV2MTcuNjAzSDBWMzIuNjkyek0wIDBoNTkuODV2MTcuNjAzSDBWMHptMTA3LjM4IDY1LjEzMkgwdjE3LjYwM2gxMDMuMzU2YzExLjMxNiAwIDM3LjcyLjI1MSA0Ny41MjggMTYuMDk0di05LjgwN2MtNC43NzgtMTUuNTkyLTE4Ljg2LTIzLjg5LTQzLjUwNS0yMy44OXptLjI1IDMyLjY5MUgwdjE3LjYwM2gxMDMuMzU2YzI1LjE0NyAwIDQwLjk5IDEuMDA2IDQ3LjUyOCA0LjUyN3YtNy43OTZjLTUuMDMtMTIuMzIyLTI2LjE1My0xNC4zMzQtNDMuMjUzLTE0LjMzNHptLS4yNSA4Mi45ODZIMHYtMTcuNjAzaDEwMy4zNTZjMTEuMzE2IDAgMzcuNzItLjI1MSA0Ny41MjgtMTYuMDk0djkuODA3Yy00Ljc3OCAxNS41OTItMTguODYgMjMuODktNDMuNTA1IDIzLjg5em0uMjUtMzIuNjkxSDB2LTE3LjYwM2gxMDMuMzU2YzI1LjE0NyAwIDQwLjk5LTEuMDA2IDQ3LjUyOC00LjUyN3Y3Ljc5NmMtNS4wMyAxMi4zMjItMjYuMTUzIDE0LjMzNC00My4yNTMgMTQuMzM0em02OS40MDcgNjMuMTJIMjU2di0xMC44MTRoLTc2LjdjLTYuNzkgMC0yMi44ODMtLjI1MS0yOC42NjctOS41NTZ2Ni4wMzZjMi43NjYgOS4zMDQgMTEuMzE2IDE0LjMzNCAyNi40MDQgMTQuMzM0em0tLjI1MS0xOS44NjdoNzguOTYzdi0xMC44MTNIMTc5LjNjLTE1LjM0IDAtMjQuODk2LS41MDMtMjguNjY4LTIuNzY2djQuNzc4YzMuMDE3IDcuNTQ0IDE1Ljg0MiA4LjgwMSAyNi4xNTMgOC44MDF6IiBmaWxsPSIjMDEwMTAxIi8+PC9zdmc+"/>
+        <text transform="scale(.1)" x="903.75" y="175" textLength="1227.5" fill="#000000" font-weight="bold">BEM METHODOLOGY</text>
+    </g>
+</svg>
